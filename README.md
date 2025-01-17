@@ -17,7 +17,7 @@ This integration allows you to connect your CoinTracking account to Home Assista
    - Clone this repository or download the ZIP file.
 
    ```bash
-   git clone https://github.com/your-repo/home-assistant-cointracking
+   git clone https://github.com/RoyOltmans/cointrackinginfo
    ```
 
 2. **Copy the component:**
