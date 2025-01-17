@@ -82,7 +82,7 @@ This integration was inspired by and builds upon the work of [ChristophCaina](ht
 ---
 
 ## Support
-For issues or feature requests, please visit the [issue tracker](https://github.com/your-repo/issues).
+For issues or feature requests, please visit the [issue tracker](https://github.com/RoyOltmans/cointrackinginfo).
 
 ---
 
