@@ -2,6 +2,8 @@
 
 This integration allows you to connect your CoinTracking account to Home Assistant, enabling you to track your account balance and other metrics directly from the Home Assistant dashboard.
 
+I stopped finishing this integration because API access is pay walled. I cannot test if the integration works behind the pay-wall.
+
 ## Features
 - Fetches real-time account balance data from CoinTracking.info.
 - Displays balance in USD or your preferred currency.
