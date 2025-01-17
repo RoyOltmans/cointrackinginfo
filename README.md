@@ -66,6 +66,12 @@ sensor:
 
 ---
 
+## Disclaimer
+
+**Use this tool at your own risk.**
+
+- The authors and contributors of this project are not responsible for any damage, data loss, or issues caused by using this software.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
