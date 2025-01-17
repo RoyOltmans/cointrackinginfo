@@ -36,6 +36,7 @@ This integration allows you to connect your CoinTracking account to Home Assista
    - Go to **Settings** > **System** > **Restart** or restart the Home Assistant service manually.
 
 3.1 **Fetch API keys at contracking.info**
+
 Go to [API activation](https://cointracking.info/api/api.php) on cointracking and create the secret and the key (do not forget to copy them, the secret appears once) and add these to your secrets.yaml
 
 3.2 **Update secrets.yaml**
