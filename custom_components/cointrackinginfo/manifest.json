@@ -1,0 +1,18 @@
+{
+  "domain": "cointracking",
+  "name": "CoinTracking Integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/your-repo/README.md",
+  "requirements": [
+    "requests>=2.25.1",
+    "voluptuous>=0.12.2"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@your-github-username"
+  ],
+  "iot_class": "cloud_polling",
+  "config_flow": false,
+  "integration_type": "helper",
+  "supported_brands": ["CoinTracking"]
+}
